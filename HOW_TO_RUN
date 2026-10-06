@@ -1,0 +1,16 @@
+HOW TO RUN
+==========
+
+1. Open this folder in VS Code.
+2. Open a terminal.
+3. Run:
+
+cd src
+javac Main.java DES.java
+java Main
+
+Example:
+Plaintext: Hello DES
+Key: 12345678
+
+The program prints the ciphertext and then decrypts it.
